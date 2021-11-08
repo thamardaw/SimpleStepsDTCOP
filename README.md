@@ -1,4 +1,4 @@
-# SimpleStepsDTCOP <br/>
+# Simple Steps for Digital Transformation Community of Practice <br/>
 Step 1: Framing the foucs: Business Transformation and Contrnuous Growth <br/>
 Step 2: Understanding the new world: Digital Revolution <br/>
 Step 3: Growth Process from Customer Aspect: CRMs, CDP, Data Driven Customer Growth Process <br/>
